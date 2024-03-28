@@ -1,0 +1,16 @@
+Obudowa wytyczne:
+
+1. Nasz pomysł,
+2. Nasza kwestia,
+3. Nasze wymiary (można pokazać z Eagle'a).
+
+Sprawozdanie:
+
+1. Do soboty/piątku do północy (niedziela wyniki usos),
+2. Zdjęcie,
+3. openlab.pwr.edu.pl -> dydaktyka -> przykładowe sprawozdanie (przykładowy sposób opisania działania układu),
+4. Napisać kilka zdań na temat tego co trzeba było zrobić,
+5. + Projekt obudowy w Inventorze + opis + pare rzutów,
+6. Wnioski + Podsumowanie (co jasne bardziej, co jasne mniej),
+7. Oświadczenie o indywidualności sprawozdania (nie kopiować 1:1 z artykułu),
+8. Dołączyć pliki .sch, .brd, .asc spakowane pliki w Inventorze.
